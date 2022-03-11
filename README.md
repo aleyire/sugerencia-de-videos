@@ -1,4 +1,4 @@
-### :tw-1f3ac:“Sugerencia de videos”:tw-1f3a6:
+### “Sugerencia de videos”
 
 El proyecto "sugerencia de videos" es un sitio web ficticio en donde se muestran sugerencias de videos, principalmente se esta entregando solo una sugerencia por cada categoria (música, película y serie).  Estas categorías estarán ubicadas en un menú colapsable, permitiendo mostrar una categoría a la vez con un solo clic o también ocultar todas las categorías.
 
